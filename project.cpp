@@ -139,11 +139,6 @@ void updateProcesses(struct process pros[], int processTime, int currentProcess)
 
 
 
-//method to pring the process.
-void printProcess(struct process pros[]){
 
-	for(int i=0; i<no_process; i++){
-		printf("Proccess :%d arivlTime : %d  burstTime : %d\n\n", pros[i].id, pros[i].arvTime, pros[i].burstTime);
-	}
 
 }
