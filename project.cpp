@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
+
 
 int processTime = 0;			//->stores the current execution time.
 int no_process = 0;				//->no of process
